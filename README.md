@@ -13,5 +13,6 @@ The Gradio implementation on Google Colab for Creative Support Index (CSI) surve
 ## How to Implement
 - open in your own Google colab
 - Link to your own Google Drive (you should set up a directory that links with your own G drive directory)
+![image](https://github.com/joseeph/Creative_support_index_gradio_app/assets/8462494/7b039b83-9cd1-4743-81f9-49109f3408bd)
 - run all the code block
 - View your collected CSV data in your Google Drive
