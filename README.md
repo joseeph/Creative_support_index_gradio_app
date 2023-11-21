@@ -1,7 +1,7 @@
 # Creative_support_index_gradio_app
 The Gradio implementation on Google Colab for Creative Support Index (CSI) survey on Creative Support Tool Evaluation 
 
-[![Open In Colab](https://colab.research.google.com/)](https://colab.research.google.com/github/joseeph/Creative_support_index_gradio_app/blob/main/CSI_survey_UI_to_csv.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joseeph/Creative_support_index_gradio_app/blob/main/CSI_survey_UI_to_csv.ipynb)
 
 ## Main UI (CSI version 2.0)
 - Survey UI
